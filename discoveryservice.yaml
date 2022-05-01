@@ -2,4 +2,4 @@ spring:
   security:
     user:
       name: shashank
-      password: '{cipher}de7ffc122bf8673ad3788f1622757a0835b81cc84e3989d89c8b7811e6f7bff6'
+      password: shashank
